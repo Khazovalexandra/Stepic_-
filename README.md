@@ -1,3 +1,3 @@
 # Stepic_Statistic
- 
-[https://stepik.org/cert/2234324](ссылка на бумажонку по основам)
+
+[Ссылочка на бумажонку по основам](https://stepik.org/cert/2234324)
